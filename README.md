@@ -1,4 +1,8 @@
 # PinCodeCustomView
 ============================================
 
-Реализация кастомного поля ввода пин кода с использованием Canvas.
+Р РµР°Р»РёР·Р°С†РёСЏ РєР°СЃС‚РѕРјРЅРѕРіРѕ РїРѕР»СЏ РІРІРѕРґР° РїРёРЅ РєРѕРґР° СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј Canvas.
+
+![Success Screenshot](https://github.com/Bedsus/PinCodeCustomView/blob/master/success_screenshot.png)
+
+![Error Screenshot](https://github.com/Bedsus/PinCodeCustomView/blob/master/error_screenshot.png)
