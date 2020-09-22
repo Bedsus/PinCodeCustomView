@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PinCodeCustomView</string>
+    <string name="input_code">Введите код\n(Правильный код состоит из единиц):</string>
+    <string name="success_text">Правильный код!</string>
+    <string name="error_text">Неверный код!</string>
+    <string name="correct_code">1111</string>
+</resources>

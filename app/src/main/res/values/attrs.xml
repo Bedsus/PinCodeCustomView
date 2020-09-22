@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinView">
+        <attr name="itemCount" format="integer" />
+        <attr name="itemWidth" format="dimension" />
+        <attr name="itemHeight" format="dimension" />
+        <attr name="itemSpacing" format="dimension" />
+        <attr name="itemBorderWidth" format="float" />
+        <attr name="selectedItemBorderWidth" format="float" />
+        <attr name="itemBorderColor" format="reference|color" />
+        <attr name="itemCornerRadius" format="dimension" />
+    </declare-styleable>
+</resources>
